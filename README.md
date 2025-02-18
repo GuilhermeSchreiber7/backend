@@ -5,4 +5,4 @@
 feito por:
 
 Guilherme Schreiber
-Enzo Giradi
+Enzo Girardi
